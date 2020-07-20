@@ -1,6 +1,10 @@
 {
-    "name": "",
-    "short_name": "",
+    "lang": "id",
+    "name": "Ahmad Nur Hadi Rama Wijaya",
+    "short_name": "ahmadnurhadirmw",
+    "description": "Melakukan Riset Untuk Komunitas, Kaya Akan Pengetahuan Teknologi, Semangat dan Maju.",
+    "categories": ["Tema", "Pelajaran", "Permainan", "Bagaimana"],
+    "display": "standalone",
     "icons": [
         {
             "src": "/android-chrome-36x36.png",
@@ -48,6 +52,9 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff"
+    "theme_color": "#333333",
+    "background_color": "white",
+    "iarc_rating_id": "e84b072d-71b3-4d3e-86ae-31a8ce4e53b7",
+    "orientation": "any",
+    "start_url": "https://ahmadnurhadirmw.blogspot.com",
 }
